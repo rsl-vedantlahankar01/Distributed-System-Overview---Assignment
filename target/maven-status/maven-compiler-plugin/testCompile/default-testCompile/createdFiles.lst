@@ -1,0 +1,9 @@
+com/hld/kvstore/ring/NaiveHashingStrategyTest.class
+com/hld/kvstore/node/ClusterNodeTest.class
+com/hld/kvstore/consistency/CPConsistencyStrategyTest.class
+com/hld/kvstore/partition/PartitionSimulatorTest.class
+com/hld/kvstore/replication/ReplicationManagerTest.class
+com/hld/kvstore/cluster/ClusterTest.class
+com/hld/kvstore/consistency/APConsistencyStrategyTest.class
+com/hld/kvstore/ring/ConsistentHashingStrategyTest.class
+com/hld/kvstore/ring/HashingStrategyComparisonTest.class
